@@ -1,0 +1,20 @@
+Jameel@LAPTOP-P54SHOVH MINGW64 /
+$ cd /c/users/jameel/desktop/a1-dpimentelli-master
+
+Jameel@LAPTOP-P54SHOVH MINGW64 /c/users/jameel/desktop/a1-dpimentelli-master
+$ ls
+imgs/  LICENSE  other-questions.md  README.md  rubric.md
+
+Jameel@LAPTOP-P54SHOVH MINGW64 /c/users/jameel/desktop/a1-dpimentelli-master
+$ git add
+fatal: not a git repository (or any of the parent directories): .git
+
+
+Jameel@LAPTOP-P54SHOVH MINGW64 /c/users/jameel/desktop/a1-dpimentelli-master
+$ git clone git@github.com:info201b-wi20/a1-dpimentelli.git
+Cloning into 'a1-dpimentelli'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
